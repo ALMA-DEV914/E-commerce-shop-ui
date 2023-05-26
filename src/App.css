@@ -7,13 +7,17 @@ body {
   font-size: 17px;
   padding: 0;
   box-sizing: border-box;
+ 
+}
+.fa-shopping-bag{
+  color: #e4e6e7;
 }
 a {
   text-decoration: none;
-  color: white;
+  color: rgb(10, 90, 156);
 }
 a:hover {
-  color: #d49569;
+  color: #083e2b;
 
 }
 .cart-item-name, .reviewsBtn{
@@ -44,23 +48,24 @@ textarea:focus {
   padding: 0;
 }
 .Announcement {
-  background-color:  #d49569;
+  background-color:  #e4e6e7;
   padding: 10px 0px 6px 0px;
 }
 .Announcement .col-md-6 p {
-  color: white;
+  color: rgb(13, 13, 13);
   margin-right: 6rem;
   font-size: 16px;
 }
 .Announcement .col-12 a {
-  color: white;
+  color: rgb(15, 14, 14);
   margin-right: 2rem;
   font-size: 15px;
 }
 /* Header */
 .header {
   padding: 10px 0px 10px 0px;
-  background: #0f0b51;
+  background: #0b5096;
+  margin-bottom: 5%;
 }
 .navbar-brand img {
   width: 60%;
@@ -71,7 +76,7 @@ textarea:focus {
 }
 .search-button {
   width: 20%;
-  background-color: #0b514d;
+  background-color: #1d1e1d;
   color: white;
   border: 0;
   text-transform: uppercase;
@@ -87,7 +92,7 @@ textarea:focus {
   margin-right: 0rem;
 }
 .badge {
-  background-color: red;
+  background-color: rgb(209, 72, 72);
   position: absolute;
   top: -20px;
   border-radius: 100px;
@@ -120,7 +125,9 @@ textarea:focus {
 .mobile-header {
   display: none;
 }
-
+.profile{
+  height: 100vh;
+}
 /* SHOP */
 .section {
   width: 100%;
@@ -170,7 +177,7 @@ textarea:focus {
   position: relative;
   overflow: hidden;
   width: 100%;
-  background-color: #f3fbf7;
+  background-color: #eff1ef;
 }
 .shopBack img {
   width: 100%;
@@ -204,7 +211,7 @@ textarea:focus {
 /* NEWSLATTER */
 .subscribe-section {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.226)),
-    url("./images/banner.png")
+    url("./images/pexels-photo-934070.jpeg")
       no-repeat scroll center / cover;
   padding: 100px 0 100px;
 }
@@ -237,7 +244,7 @@ textarea:focus {
   width: 460px;
 }
 .form-section input[type="submit"] {
-  background: #92437d;
+  background: #1c1c1c;
   border: 0 none;
   border-radius: 25px;
   color: #fff;
@@ -289,7 +296,7 @@ textarea:focus {
   margin-bottom: 50px;
 }
 .single-image {
-  background-color: #f3fbf7;
+  background-color: #eff1ef;
   margin-right: 20px;
   height: 700px;
   display: flex;
@@ -408,12 +415,13 @@ textarea:focus {
 /* PROFILE */
 .author-card {
   position: relative;
+  
 }
 .author-card-cover {
   height: 100px;
   width: 100%;
   background-size: cover;
-  background-image: url("https://gust.com/assets/blank_slate/Gust_Profile_CoverPhoto_Blank-21edf1e2890708d5a507204f49afc10b7dc58eb7baea100b68a1bc2c96948297.png");
+  background-image: url("../src/images/pexels-photo-934070.jpeg");
 }
 .author-card-profile {
   padding: 20px 10px;
@@ -441,18 +449,21 @@ textarea:focus {
   border-top: 1px solid #e4e4e4;
 }
 .wizard .nav .active {
-  background-color: #e5fee9;
-  color: black;
+  background-color: #0b51a6;
+  color: rgb(235, 234, 234);
 }
 .badge2 {
   width: 20px;
   height: 20px;
-  background-color: red;
+  background-color: rgb(195, 66, 66);
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 100px;
   color: #ffffff;
+}
+.form-container{
+ padding: 15px;
 }
 .form {
   padding: 20px 0;
@@ -466,7 +477,7 @@ textarea:focus {
 .form input {
   padding: 20px 10px;
   font-size: 17px;
-  background-color: #e4eee6;
+  background-color: #eff1ef;
 }
 .form-container button {
   padding: 15px 0;
@@ -607,7 +618,7 @@ textarea:focus {
 }
 .order-detail {
   padding: 30px 0;
-  background-color: #e5fee9;
+  background-color: #e4e6e7;
 }
 .order-detail h5 {
   margin-bottom: 6px;
@@ -635,6 +646,9 @@ textarea:focus {
   width: 100%;
   height: 100px;
   object-fit: contain;
+}
+.table-responsive{
+  padding: 15px;
 }
 .table-bordered {
   background-color: #f3f3f3;
