@@ -12,6 +12,9 @@ body {
 .login, .register{
   color: #fff;
 }
+.login:hover, .register:hover{
+  color: grey;
+}
 .fa-shopping-bag{
   color: #e4e6e7;
 }
