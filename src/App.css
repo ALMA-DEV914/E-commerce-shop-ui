@@ -9,6 +9,12 @@ body {
   box-sizing: border-box;
  
 }
+.trendDes{
+  height: 100px;
+  overflow-y: scroll;
+  background-color: #eff1ef;
+  padding: 12px;
+}
 .trendBack{
   height: 250px;
   position: relative;
