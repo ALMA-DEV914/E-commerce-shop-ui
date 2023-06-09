@@ -96,6 +96,14 @@ const trendings= [
     description:
       "50% more powerful than the previous generation for fast streaming in Full HD. Includes Alexa Voice Remote with power and volume buttons. Stream more than 1 million movies and TV episodes from Netflix, Prime Video, Disney+, Peacock, and more, plus listen to millions of songs. Subscription fees may apply. Watch your favorite live TV, news, and sports with subscriptions to SLING TV, YouTube TV, and others. Use the Guide button to see what's available and when.Access over 200,000 free movies and TV episodes from popular ad-supported streaming apps like Freevee, Tubi, Pluto TV and more.Listen on Amazon Music, Spotify, Pandora, and others. Subscription fees may apply.Alexa Voice Remote lets you use your voice to search and launch shows across apps. All-new preset buttons get you to favorite apps quickly. Plus, control power and volume on your TV and soundbar with a single remote.Feel scenes come to life with immersive Dolby Atmos audio on select titles with compatible home audio systems.Plug in behind your TV, turn on the TV, and connect to the internet to get set up."
   },
+  {
+    _id: "12",
+    name: "Fruit of the Loom Men's Coolzone Boxer Briefs (Assorted Colors)",
+    image: "../images/83.jpg",
+    link: "https://amzn.to/3WYqm7A",
+    description:
+      "94% Cotton, 6% Polyester. Imported. Pull On closure. Machine Wash. Cool zone mesh fly provides ventilation where you need it. Pack of 7. Wicks moisture"
+  },
 ];
 
 export default trendings;
