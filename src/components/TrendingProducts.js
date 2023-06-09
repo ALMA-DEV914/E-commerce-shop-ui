@@ -1,5 +1,5 @@
 import React from "react";
-import trending from "../../data/Trending";
+import trendings from "../data/Trending";
 
 function TrendingProducts() {
   return (
