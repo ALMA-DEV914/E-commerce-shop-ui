@@ -88,6 +88,14 @@ const trendings= [
       " Skechers is an award-winning global leader in the lifestyle footwear industry that designs, develops, and markets lifestyle footwear that appeals to trend-savvy men, women and children. The company's success stems from it's high quality, diversified, and affordable product line that meets consumers' various lifestyle needs. Since it's inception in 1992, the Skechers diverse product offering has grown from utility style boots to include seven Skechers brands and five uniquely branded fashion lines for men and women.",
 
   },
+  {
+    _id: "11",
+    name: "Fire TV Stick with Alexa Voice Remote (includes TV controls), free & live TV without cable or satellite, HD streaming device",
+    image: "../images/82.jpg",
+    link: "https://amzn.to/43TazJp",
+    description:
+      "50% more powerful than the previous generation for fast streaming in Full HD. Includes Alexa Voice Remote with power and volume buttons. Stream more than 1 million movies and TV episodes from Netflix, Prime Video, Disney+, Peacock, and more, plus listen to millions of songs. Subscription fees may apply. Watch your favorite live TV, news, and sports with subscriptions to SLING TV, YouTube TV, and others. Use the Guide button to see what's available and when.Access over 200,000 free movies and TV episodes from popular ad-supported streaming apps like Freevee, Tubi, Pluto TV and more.Listen on Amazon Music, Spotify, Pandora, and others. Subscription fees may apply.Alexa Voice Remote lets you use your voice to search and launch shows across apps. All-new preset buttons get you to favorite apps quickly. Plus, control power and volume on your TV and soundbar with a single remote.Feel scenes come to life with immersive Dolby Atmos audio on select titles with compatible home audio systems.Plug in behind your TV, turn on the TV, and connect to the internet to get set up."
+  },
 ];
 
 export default trendings;
