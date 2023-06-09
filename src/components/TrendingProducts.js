@@ -12,7 +12,7 @@ function TrendingProducts() {
           <div className="col-lg-12 col-md-12 article">
             <div className="shopcontainer row">
               <>
-                {trending.map((trending) => (
+                {trendings.map((trending) => (
                   <div
                     className="shop col-lg-4 col-md-6 col-sm-6"
                     key={trending._id}
