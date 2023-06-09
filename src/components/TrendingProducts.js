@@ -1,7 +1,7 @@
 import React from "react";
 import trending from "../../data/Trending";
 
-function Trendingtrendings() {
+function TrendingProducts() {
   return (
     <>
    
@@ -45,4 +45,4 @@ function Trendingtrendings() {
   );
 }
 
-export default Trendingtrendings;
+export default TrendingProducts;
