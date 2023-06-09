@@ -2,7 +2,7 @@ const trendings= [
   {
     _id: "1",
     name: "ODODOS Unisex Mini Belt Bag with Adjustable Strap Small Waist Pouch for Workout Running Traveling Hiking, Black",
-    image: "/images/71.jpg",
+    image: "../../images/71.jpg",
     link: "https://amzn.to/3qDHvY1",
     description:
       "➤Versatile Style: Adjustable Strap allow you to wear this belt bag in a variety of ways. It can be carried as cross bag, shoulder bag, waist bag or handbag. It’s all up to you.➤Functional: Our mini waist bag is lightweight and easy to carry, roomy for phone, wallet, passport, keys, ID and other small items, provide great convenience for you.➤High Quality: ODODOS mini belt bag are made of durable fabric, zippers and straps which is water resistant, durable and anti-abrasion, ensure a long-lasting usage.➤Design for: ODODOS mini belt bags ideal for men, women and teenagers, perfect for daily use, out door, gym workouts, running, biking, traveling, etc.➤Great Gift Option: Great idea as a special gift/present for her/his birthday, New Year, Valentine's Day, Easter, Mother's Day, Halloween, Thanksgiving and Christmas gifts .",
