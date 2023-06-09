@@ -79,6 +79,15 @@ const trendings= [
       "Neoprene. Imported. Hook and Loop closure. Machine Wash. MAKE YOUR WORKOUT WORK FOR YOU: Elevate your next cardio, circuit, or HIIT session with the Sweet Sweat Waist Trimmer belt, designed to help you sweat and tone as you achieve your fitness goals. SWEAT FASTER, SWEAT HARDER: Waist trimmer designed with Neo-Sweat Technology, an anti-slip, moisture-repelling interior that provides superior heat insulation to increase core temperature for a harder, faster sweat and to cut excess water weight. CONTOURS TO YOUR BODY SHAPE: Designed to accommodate all shapes and sizes, our durable, machine-washable waist trainer has a velcro closure and adjusts to your body’s unique figure to provide a custom, contoured fit that looks as good as it feels",
 
   },
+   {
+    _id: "10",
+    name: "Skechers Men's Cankton-U Industrial Shoe",
+    image: "../images/81.jpg",
+    link: "https://amzn.to/3J4UloB",
+    description:
+      " Skechers is an award-winning global leader in the lifestyle footwear industry that designs, develops, and markets lifestyle footwear that appeals to trend-savvy men, women and children. The company's success stems from it's high quality, diversified, and affordable product line that meets consumers' various lifestyle needs. Since it's inception in 1992, the Skechers diverse product offering has grown from utility style boots to include seven Skechers brands and five uniquely branded fashion lines for men and women.",
+
+  },
 ];
 
 export default trendings;
