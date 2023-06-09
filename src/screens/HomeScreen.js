@@ -4,7 +4,7 @@ import ShopSection from "../components/homeComponents/ShopSection";
 import ContactInfo from "../components/homeComponents/ContactInfo";
 import CalltoActionSection from "../components/homeComponents/CalltoActionSection";
 import Footer from "../components/Footer";
-import TrendingProducts from "../components/homeComponents/TrendingProducts";
+import TrendingProducts from "../components/homeComponents/TrendingProducts.js";
 
 const HomeScreen = ({ match }) => {
   window.scrollTo(0, 0);
