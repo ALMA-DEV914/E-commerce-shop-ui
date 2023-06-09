@@ -9,6 +9,18 @@ body {
   box-sizing: border-box;
  
 }
+.trendBack{
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  
+}
+.trendBack img{
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
+}
 .login, .register{
   color: #fff;
 }
